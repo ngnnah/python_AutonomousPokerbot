@@ -1,5 +1,5 @@
 # An Autonomous Pokerbot
-### In Jan 2021, I participated in MIT Pokerbots Competition.
+### In January of 2021, I participated in the MIT Pokerbots Competition.
 
 ### In the end, I alone built a completely autonomous pokerbot (using Python), that could easily beat Difficult-level MIT Staff bot. 
 
