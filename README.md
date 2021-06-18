@@ -1,6 +1,11 @@
 # An Autonomous Pokerbot
-### In January of 2021, I participated in the MIT Pokerbots Competition.
+### In January of 2021, I participated in the MIT Pokerbots Competition, a poker tournament in which Teams have one month to program a completely autonomous pokerbot which competes against other bots.
 
+> Poker is a game of incomplete information and uncertainty. It is a prime application of the game theory concepts and decision making skills essential to trading. While traders make risk decisions based on the limited information they get from the markets, poker players make decisions based on hidden information as well, taking into account factors such as expected value and probability distributions.
+> 
+> To win, competitors must learn and apply concepts in mathematics, computer science, and economics.
+> 
+> The reigning Pokerbots champion is a product of excellent programming ability and strategic quantitative thinking skills!
 ### In the end, I alone built a completely autonomous pokerbot (using Python), that could easily beat Difficult-level MIT Staff bot. 
 
 ### My bot also ranked above the average pokerbots built by teams of 1-3 MIT students (with winrate > 50%, and above average ELO rating).
