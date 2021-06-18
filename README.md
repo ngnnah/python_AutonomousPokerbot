@@ -6,9 +6,19 @@
 > To win, competitors must learn and apply concepts in mathematics, computer science, and economics.
 > 
 > The reigning Pokerbots champion is a product of excellent programming ability and strategic quantitative thinking skills!
-### In the end, I alone built a completely autonomous pokerbot (using Python), that could easily beat Difficult-level MIT Staff bot. 
 
-### My bot also ranked above the average pokerbots built by teams of 1-3 MIT students (with winrate > 50%, and above average ELO rating).
+* I have learned that similar to TRADING, game theory concepts and decision making skills are essential in Poker. While traders make risk decisions based on the limited information they get from the markets, poker players make decisions based on hidden information as well
+
+To win, competitors must learn and apply concepts in mathematics (expected value and probability distributions), computer science, and economics.
+
+A pokerbot champion is a product of excellent programming ability and strategic quantitative thinking skills!
+
+### STRATEGIES AND IMPLEMENTATION: 
+* For fast runtime, my bot played millions of simulated pokergames and precomputed poker-hand strengths before the tournament.
+* To automate decision making, I applied risk-reward calculations , and for the best outcome, I followed a tight-aggressive (bet big on strong hands) playing style. 
+* I also adds randomization so my strategies are not predicted and exploited by other bots.
+### In the end, I alone built a bot (using Python), that could easily beat Difficult-level Staff bot.
+### My bot also ranked above average pokerbots built by teams of 4 MIT students . It has a winrate of > 50%, and above average ELO rating.
 
 ![win loss](winloss.png?raw=true)
 
