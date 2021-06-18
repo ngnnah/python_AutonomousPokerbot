@@ -7,7 +7,7 @@
 > 
 > The reigning Pokerbots champion is a product of excellent programming ability and strategic quantitative thinking skills!
 
-* I have learned that similar to TRADING, game theory concepts and decision making skills are essential in Poker. While traders make risk decisions based on the limited information they get from the markets, poker players make decisions based on hidden information as well
+I have learned that similar to TRADING, game theory concepts and decision making skills are essential in Poker. While traders make risk decisions based on the limited information they get from the markets, poker players make decisions based on hidden information as well
 
 To win, competitors must learn and apply concepts in mathematics (expected value and probability distributions), computer science, and economics.
 
